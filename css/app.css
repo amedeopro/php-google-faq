@@ -92,3 +92,13 @@
   margin: 0 auto;
 }
 
+.container-faq .faq h2 {
+  font-size: 24px;
+  line-height: 32px;
+}
+
+.container-faq .faq p {
+  font-size: 14px;
+  margin-bottom: 35px;
+}
+
